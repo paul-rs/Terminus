@@ -4,3 +4,5 @@
 *.xml
 *.cache
 packages/
+bin
+obj
