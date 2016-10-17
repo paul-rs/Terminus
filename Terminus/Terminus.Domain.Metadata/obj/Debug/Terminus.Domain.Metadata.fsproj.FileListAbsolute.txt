@@ -1,0 +1,4 @@
+c:\Code\FSharp\Terminus\Terminus\Terminus.Domain.Metadata\bin\Debug\Terminus.Domain.Metadata.dll
+c:\Code\FSharp\Terminus\Terminus\Terminus.Domain.Metadata\bin\Debug\FSharp.Core.dll
+c:\Code\FSharp\Terminus\Terminus\Terminus.Domain.Metadata\bin\Debug\FSharp.Core.xml
+c:\Code\FSharp\Terminus\Terminus\Terminus.Domain.Metadata\obj\Debug\Terminus.Domain.Metadata.fsprojResolveAssemblyReference.cache

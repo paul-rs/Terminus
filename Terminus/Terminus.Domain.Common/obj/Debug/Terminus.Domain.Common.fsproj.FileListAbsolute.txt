@@ -1,0 +1,7 @@
+C:\Code\FSharp\Terminus\Terminus\Terminus.Domain.Common\bin\Debug\Terminus.Domain.Common.XML
+C:\Code\FSharp\Terminus\Terminus\Terminus.Domain.Common\bin\Debug\Terminus.Domain.Common.dll
+C:\Code\FSharp\Terminus\Terminus\Terminus.Domain.Common\bin\Debug\Terminus.Domain.Common.pdb
+C:\Code\FSharp\Terminus\Terminus\Terminus.Domain.Common\bin\Debug\FSharp.Core.dll
+C:\Code\FSharp\Terminus\Terminus\Terminus.Domain.Common\obj\Debug\Terminus.Domain.Common.dll
+C:\Code\FSharp\Terminus\Terminus\Terminus.Domain.Common\obj\Debug\Terminus.Domain.Common.pdb
+c:\Code\FSharp\Terminus\Terminus\Terminus.Domain.Common\obj\Debug\Terminus.Domain.Common.fsprojResolveAssemblyReference.cache

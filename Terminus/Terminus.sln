@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.25618.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Terminus.Domain.Leaderboard", "Terminus.Domain.Leaderboard\Terminus.Domain.Leaderboard.fsproj", "{3636F915-1913-4225-AE02-E92D82C387A1}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Terminus.Domain.Common", "Terminus.Domain.Common\Terminus.Domain.Common.fsproj", "{8F86CBB4-DEBA-41EC-8DA2-0BE49C33E160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3636F915-1913-4225-AE02-E92D82C387A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3636F915-1913-4225-AE02-E92D82C387A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3636F915-1913-4225-AE02-E92D82C387A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3636F915-1913-4225-AE02-E92D82C387A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F86CBB4-DEBA-41EC-8DA2-0BE49C33E160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F86CBB4-DEBA-41EC-8DA2-0BE49C33E160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F86CBB4-DEBA-41EC-8DA2-0BE49C33E160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F86CBB4-DEBA-41EC-8DA2-0BE49C33E160}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

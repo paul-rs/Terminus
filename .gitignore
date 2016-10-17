@@ -1,0 +1,6 @@
+*.suo
+*.dll
+*.pdb
+*.xml
+*.cache
+packages/
